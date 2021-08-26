@@ -365,10 +365,20 @@ h3{
 @media screen and (min-width:400px){
    
     h1{
+        padding-top: 100px;
       
         font-size: 30px;
         
     }
+    
+.btncls{
+   
+    margin-left: 35%;
+    margin-top: 2%;
+    font-weight: 5px;
+    
+}
+   
 }
 @media screen and (min-width:900px){
    
